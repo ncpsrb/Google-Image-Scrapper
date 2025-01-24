@@ -64,11 +64,9 @@ mountain;Not found
 ```
 
 Robot Execution:
+
 ![Robot Execution](execution/demo.gif)
 
 Robot Execiton UI:
+
 ![Robot Execution](execution/UI.gif)
-
----
-
-Let me know if you'd like further customization or additional sections!
