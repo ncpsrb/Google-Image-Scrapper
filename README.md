@@ -67,7 +67,7 @@ Robot Execution:
 ![Robot Execution](execution/demo.gif)
 
 Robot Execiton UI:
-![Robot Execution](execution/demo2.gif)
+![Robot Execution](execution/UI.gif)
 
 ---
 
